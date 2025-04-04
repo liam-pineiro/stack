@@ -1,1 +1,1 @@
-# stack
+uses simple stack functionality
